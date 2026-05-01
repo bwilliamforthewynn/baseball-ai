@@ -1,4 +1,4 @@
-# ballpark-ai
+# baseball-ai
 
 A baseball analytics app powered by historical Lahman data, dbt, BigQuery, and Claude.
 
